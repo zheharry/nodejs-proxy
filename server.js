@@ -27,7 +27,7 @@ const tlsOptions = {
 
 // VPN 配置 
 const vpnConfig = {
-  port: 1194,
+  port: 80,
   subnet: '10.8.0.0',
   netmask: '255.255.255.0'
 };
